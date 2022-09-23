@@ -12,7 +12,7 @@ flex-direction: column;  align-items: center; justify-content: center; backgroun
 .details{ text-align: center; text-transform: uppercase; }
 
 .details label{font-size: 1.4rem;}
-.details input { padding: 10px; background-color: #ff6b81; color: white; text-align: center;}
+.details input { padding: 10px; background-color: #ff6b81; color: white; text-align: center; font-size: 20px;}
 .details input[type=text]:focus {
   border: 3px solid #555;
 }
